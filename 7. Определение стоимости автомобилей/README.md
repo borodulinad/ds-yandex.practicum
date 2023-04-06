@@ -22,4 +22,4 @@
 На тестовой выборке RMSE составило 1654.4783143353518.
 
 # Стек
-Pandas, matplotlib, numpy, scikit-learn, seaborn, ydata_profiling, phik, category_encoders CatBoost, XGBoost, LightGBM, 
+Pandas, matplotlib, numpy, scikit-learn, seaborn, ydata_profiling, phik, category_encoders CatBoost, XGBoost, LightGBM. 
